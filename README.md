@@ -14,11 +14,7 @@ Here are some ideas to get you started:
 
 <img alt="My most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikDuttaHih7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> 
 
-[![Koushik's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KoushikDuttaHih7&theme=github-compact)](https://github.com/KoushikDuttaHih7/github-readme-activity-graph)
-
-
-
-
+[![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KoushikDuttaHih7&bg_color=000000&color=ffffff&line=0ecd3e&point=80ffac&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
